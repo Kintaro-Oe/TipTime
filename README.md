@@ -14,7 +14,7 @@ Some key concepts covered in this app are:
 * Hoisting state.
 * User input.
 
-Screenshot
+Demo
 ---------------
 <img src="img/Demo.gif" width="300" height="650" />
 <!-- <img src="img/Screenshot.png" width="300" height="650" /> -->
