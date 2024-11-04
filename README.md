@@ -11,10 +11,10 @@ The Tip Time app contains various UI elements for calculating a tip.
 Creating this app involved thinking about state in a UI and how Compose uses state to display data.  
 
 Some key concepts covered in this app are:
-* Hoisting state.
-* User input.
+* Hoisting state - Reusable & Testable
+* User inputs - Keyboard types & Switches
 
 Demo
 ---------------
-<img src="img/Demo.gif" width="300" height="650" />
+<img src="img/Demo2.gif" width="300" height="650" />
 <!-- <img src="img/Screenshot.png" width="300" height="650" /> -->
